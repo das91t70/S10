@@ -3,7 +3,7 @@
 #### Target:
     Accuracy - 90%
     No of Epochs - 24
-    Max learning rate ro be achieved at Epoch 5
+    Max learning rate to be achieved at Epoch 5
     Use OneCycleLR scheduler
     Compute maximum learning rate using pytorch LR finder
     Use image augmentation ( RandomCrop, FlipLR, Cutout)
